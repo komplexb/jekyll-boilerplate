@@ -1,7 +1,7 @@
 jekyll boilerplate
 =========
 
-This is a Jekyll project utilising [bootstrap-sass](https://github.com/twbs/bootstrap-sass), [bourbon](bourbon.io) mixin library and grunt js to deploy to gh-pages. Check out the boilerplate branch to update it.   
+This is a Jekyll (2.3.0) project utilising [bootstrap-sass](https://github.com/twbs/bootstrap-sass), [bourbon](bourbon.io) mixin library and grunt js to deploy to gh-pages. Check out the boilerplate branch to update it.   
 
 We're using bootstrap sass so that we can easily manage the CSS file size by toggling the bootstrap components we need. This method also allow us to override [boostrap variables](http://getbootstrap.com/customize/#less-variables) (replace '@' with "$')  in one location instead of using find + replace. 
 
